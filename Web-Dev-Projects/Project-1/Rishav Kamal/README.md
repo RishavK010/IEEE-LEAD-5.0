@@ -19,4 +19,5 @@ Key Features:
             with ARIA labels.
 	
 •	Technologies Used: HTML, CSS, JavaScript, ScrollReveal.js.
+
 ** Link: https://rishavk010.github.io/Portfolio/**
